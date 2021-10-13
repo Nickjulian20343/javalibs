@@ -80,12 +80,12 @@ public class Javalibs {
         System.out.println("had a blizzard and all of the " + favDogBreed + 
             " were playing in" + " the snow.");
         
-        System.out.println("for some reason the snow was " + favColor + "");
+        System.out.println("For some reason the snow was " + favColor);
         System.out.println("and " + bestFreindsName + " was also in the snow"
             + " and was " + favColor + ".");
         
-        System.out.println("there was " + (numberOfPets + numOfFreindPets) + " cars outside and "
-            + (numberOfPets + numOfFreindPets)+ " with snow covering them.");
+        System.out.println("There was " + (numberOfPets + numOfFreindPets) + " cars outside and "
+            + (numberOfPets + numOfFreindPets)+ " of them covered in snow.");
         
         System.out.println("there are " + familyCars + " trees that are covered with snow.");
         
